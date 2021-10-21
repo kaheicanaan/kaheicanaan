@@ -1,8 +1,8 @@
 ## Hi, I am Alan 👋
 
-A random guy with board interests.
+A random guy having a broad interest.
 
-- Senior AI Engineer at [AmbiLabs](https://www.ambiclimate.com/) ❄️
+- System Analyst at [ATAL Engineering Limited](https://www.atal.com)
 - Working in Hong Kong 🇭🇰
 - Backend, Data Engineer with strong analytical skills
 
@@ -19,7 +19,7 @@ A random guy with board interests.
 - Cavity quantum opto-mechanics
   - [Publication](https://link.aps.org/doi/10.1103/PhysRevA.93.043834) in Phys.Rev. A
 
-## More details 🤓
+## More details
 
 - [Linkedin](https://www.linkedin.com/in/kaheicanaan/)
 - [Google scholar](https://scholar.google.com.hk/citations?user=mvAWMlkAAAAJ&hl=en)
