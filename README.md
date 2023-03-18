@@ -2,7 +2,7 @@
 
 A random guy having a broad interest.
 
-- System Analyst at [ATAL Engineering Limited](https://www.atal.com)
+- Principal Software Engineer at [ATAL Engineering Limited](https://www.atal.com)
 - Working in Hong Kong 🇭🇰
 - Backend, Data Engineer with strong analytical skills
 
